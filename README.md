@@ -1,4 +1,4 @@
-# EcoPlus-Coleta
+# Eco+:Coleta
 
 A preocupação com as mudanças climáticas é um tema recorrente no âmbito acadêmico e profissional. Isso pode ser observado em conferências internacionais onde líderes mundiais discutem soluções para os problemas relacionados ao meio ambiente.
 
